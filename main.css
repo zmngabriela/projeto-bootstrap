@@ -1,0 +1,42 @@
+header .navbar {
+    height: 80px;
+}
+
+nav form {
+    margin-left: 30px;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 450px;
+}
+
+section {
+    margin: 100px auto;
+}
+
+section h2 {
+    margin: 0 0 50px 100px;
+}
+
+.row .card-link {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
